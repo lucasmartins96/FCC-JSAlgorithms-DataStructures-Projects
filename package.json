@@ -1,0 +1,26 @@
+{
+  "name": "fcc-js-algorithms-data-structures-projects",
+  "version": "1.0.0",
+  "description": "Resolução dos 5 Algoritmos para conclusão da certificação em Algoritmos JS e Estrutura de Dados da freeCodeCamp.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasmartins96/FCC-JSAlgorithms-DataStructures-Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasmartins96/FCC-JSAlgorithms-DataStructures-Projects/issues"
+  },
+  "homepage": "https://github.com/lucasmartins96/FCC-JSAlgorithms-DataStructures-Projects#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
