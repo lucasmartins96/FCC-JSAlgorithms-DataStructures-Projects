@@ -1,0 +1,1 @@
+const telephoneCheck = require('../telephone-number-validator/telephoneNumberValidator');
