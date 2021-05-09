@@ -3,7 +3,7 @@ Minha resolução dos 5 [algoritmos](https://www.freecodecamp.org/learn/javascri
 
 Os algoritmos são:
  - [X] [Palindrome Checker](palindrome-checker/)
- - [ ] [Roman Numeral Converter](roman-numeral-converter/)
+ - [X] [Roman Numeral Converter](roman-numeral-converter/)
  - [X] [Caesars Cipher](caesars-cipher/)
- - [ ] [Telephone Number Validator](telephone-number-validator/)
+ - [X] [Telephone Number Validator](telephone-number-validator/)
  - [ ] [Cash Register](cash-register/)
