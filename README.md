@@ -6,4 +6,4 @@ Os algoritmos são:
  - [X] [Roman Numeral Converter](roman-numeral-converter/)
  - [X] [Caesars Cipher](caesars-cipher/)
  - [X] [Telephone Number Validator](telephone-number-validator/)
- - [ ] [Cash Register](cash-register/)
+ - [X] [Cash Register](cash-register/)
